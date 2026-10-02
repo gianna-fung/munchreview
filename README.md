@@ -2,15 +2,15 @@
 
 > 🚧 Currently a work in progress! See Roadmap for project progress.
 
-Ever heard of the "3.5-star sweet spot"? The theory, popularized by [Freddie Wong](https://www.tiktok.com/@rocketjump/video/7142660978868489515?lang=en), is that the best "authentic" Chinese restaurants sit around 3.5 stars on Yelp, because their ratings about how good the food is gets dragged down by reviews about service, ambiance, or wait times.
+Ever heard of the "3.5-star sweet spot"? The theory, popularized by [Freddie Wong](https://www.tiktok.com/@rocketjump/video/7142660978868489515), is that the best "authentic" Chinese restaurants sit around 3.5 stars on Yelp, because real, good food gets dragged down by reviews about service, ambiance, or wait times.
 
 MunchReview tests that idea, then asks the broader question across all types of restaurants: what do reviews reveal about food quality, consistency, and customer experience that a star rating hides?
 
 ## Data
 - Source: Yelp Open Dataset (JSON). Not included in this repo per Yelp's
   dataset terms. See "Reproducing" below to see how to obtain the dataset.
-- Businesses: [150346]
-- Reviews: [6990280]
+- Businesses: 150,346
+- Reviews: 6,990,280
 - Restaurants: TBD
 - Restaurant reviews: TBD
 - Review date range: TBD
